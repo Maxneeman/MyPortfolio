@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,KAAK,CAAA;EACD,WAAW,CAAA,OAAC;EACZ,gBAAgB,CAAA,IAAC;EAEjB,aAAa,CAAA,IAAC;EAEd,UAAU,CAAA,KAAC;EACX,eAAe,CAAA,KAAC;EAChB,WAAW,CAAA,QAAC;EACZ,iBAAiB,CAAA,QAAC;CACrB",
+    "sources": [
+        "../../scss/bluemode.scss"
+    ],
+    "names": [],
+    "file": "bluemode.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,KAAK,CAAA;EACD,WAAW,CAAA,OAAC;EACZ,gBAAgB,CAAA,MAAC;EAEjB,aAAa,CAAA,OAAC;EAEd,UAAU,CAAA,KAAC;EACX,eAAe,CAAA,QAAC;EAEhB,WAAW,CAAA,QAAC;EAEZ,iBAAiB,CAAA,QAAC;CACrB",
+    "sources": [
+        "../../scss/purple.scss"
+    ],
+    "names": [],
+    "file": "purple.css"
+}
