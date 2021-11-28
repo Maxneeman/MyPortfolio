@@ -12,3 +12,6 @@ I added some css through sass preprocessor.
 
 # 4th add some Js
 for the sake of changing themes on the webpage.
+
+# 5th add sample post.html
+This is just a sample of where some links will land.
